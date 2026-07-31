@@ -1,0 +1,23 @@
+export const workFrases = [
+    "Trabajaste un turno doble como cajero en el supermercado local.",
+    "Completaste una jornada repartiendo paquetes en tu motocicleta.",
+    "Pasaste el día reparando el motor de un coche en el taller mecánico.",
+    "Atendiste mesas durante el almuerzo en un restaurante del centro.",
+    "Trabajaste en la barra de una cafetería preparando espressos y lattes.",
+    "Hiciste el turno de noche como guardia de seguridad en un centro comercial.",
+    "Ayudaste a cargar bultos de cemento en una obra de construcción.",
+    "Pasaste la tarde cortando el césped y arreglando los jardines del vecindario.",
+    "Trabajaste en un centro de atención telefónica resolviendo dudas de clientes.",
+    "Completaste el inventario mensual de una tienda de ropa en el centro.",
+    "Trabajaste como cajero en una estación de servicio durante la madrugada.",
+    "Lavaste coches sin parar en el autolavado durante toda la tarde.",
+    "Hiciste un trabajo de pintura en la fachada de una casa familiar.",
+    "Pasaste el día acomodando mercancía en los estantes de un almacén.",
+    "Trabajaste como recepcionista en un hotel atendiendo a los turistas.",
+    "Ayudaste a una familia con su mudanza cargando muebles pesados.",
+    "Hiciste el aseo profundo de unas oficinas corporativas tras el horario laboral.",
+    "Trabajaste una jornada completa recolectando frutas en los campos locales.",
+    "Apoyaste en la cocina de una pizzería estirando masa y preparando pedidos.",
+    "Pasaste la mañana limpiando los ventanales de un edificio comercial.",
+    "Trabajaste cuidando a las mascotas de tus vecinos mientras estaban fuera."
+];
