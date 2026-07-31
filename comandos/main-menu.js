@@ -1,6 +1,6 @@
 import {
     config
-} from '../../config.js'
+} from '../config.js'
 
 import {
     database
