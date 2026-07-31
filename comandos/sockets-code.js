@@ -5,7 +5,7 @@ El código fue desarrollado para el bot Kazuma, en el mes de abril, cualquier ot
 */
 import {
     startSubBot
-} from '../../sockets/index.js'
+} from '../sockets/index.js'
 
 import {
     config
