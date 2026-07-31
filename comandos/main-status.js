@@ -9,7 +9,7 @@ import path
 
 import {
     config
-} from '../../config.js'
+} from '../config.js'
 
 
 const statusCommand = {
