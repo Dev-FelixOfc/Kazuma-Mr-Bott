@@ -9,14 +9,32 @@ Bienvenidos al repositorio público de Kazuma-Mr-Bot.
 ---
 
 ## Instalación por termux • Vps
+
 ```bash
 termux-setup-storage
+```
+
+```bash
 pkg update && pkg upgrade -y
+```
+
+```bash
 pkg install git nodejs-lts ffmpeg -y
-git clone https://github.com/tuusuario/Kazuma-Mr-Bot
-cd Kazuma-Mr-Bot
-chmod +x install.sh
-./install.sh
+```
+
+```bash
+git clone https://github.com/Dev-FelixOfc/Kazuma-Mr-Bott
+```
+
+```bash
+cd Kazuma-Mr-Bott
+```
+
+```bash
+chmod +x install.sh && ./install.sh
+```
+
+```bash
 npm start
 ```
 
